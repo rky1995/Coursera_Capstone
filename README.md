@@ -1,13 +1,4 @@
-# PHBS_MLF_2018
-
-[Arianna MISERICORDIA](https://github.com/ariannamisericordia) 1802010234
-
-[Ewa GERUS](https://github.com/ewagerus)  1802010260
-
-[Noam PELEG](https://github.com/Noam-Peleg) 1802010275
-
-[Lillah BENARD](https://github.com/Lillahbenard) 1802010264
-
+COURSERA CAPSTONE
 # _Prediction of Automotive Accident Severity_ 
 
 **MOTIVATION**:
